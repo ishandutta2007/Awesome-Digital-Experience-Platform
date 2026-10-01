@@ -59,9 +59,9 @@ Below is a curated comparison of leading SaaS & Commercial Digital Experience Pl
 
 The open-source ecosystem forms the architectural backbone for self-hosted DXP deployments, headless content API hubs, and data privacy-compliant experience stacks. 🚀
 
-Below are top open-source projects sorted in descending order by GitHub Stars. ⭐
+Below are top open-source projects sorted in descending order by GitHub_Stars. ⭐
 
-| Repository | GitHub Stars Badge | Primary Language / Architecture | Category & Overview |
+| Repository | GitHub_Stars_Badge | Primary Language / Architecture | Category & Overview |
 | :--- | :--- | :--- | :--- |
 | **[Strapi](https://github.com/strapi/strapi)** | [![Strapi Stars](https://img.shields.io/github/stars/strapi/strapi?style=social&color=white)](https://github.com/strapi/strapi/stargazers) | Node.js / JavaScript | **Headless CMS** — Leading open-source Headless CMS with custom REST/GraphQL APIs and plugin engine. 🚀 |
 | **[Appwrite](https://github.com/appwrite/appwrite)** | [![Appwrite Stars](https://img.shields.io/github/stars/appwrite/appwrite?style=social&color=white)](https://github.com/appwrite/appwrite/stargazers) | TypeScript / Docker | **BaaS / Backend Core** — Open-source backend providing auth, database, functions, and storage for DXP frontends. ⚙️ |
@@ -107,7 +107,7 @@ Contributions are welcome! Please follow these guidelines: 📝
 1. Fork the repository.
 2. Edit `README.md` keeping the Markdown tabular formatting consistent.
 3. For SaaS entries, provide factual pricing, trial duration, and company scale metrics.
-4. For Open-Source entries, ensure official GitHub repository URLs and correct star badge tags.
+4. For Open-Source entries, ensure official GitHub repository URLs and correct Stars_Badge tags.
 5. Create a clean Pull Request describing your additions.
 
 ---
